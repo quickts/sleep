@@ -1,6 +1,6 @@
 {
   "name": "@quickts/sleep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sleep",
   "main": "dist/index.js",
   "scripts": {
@@ -8,7 +8,10 @@
     "clean": "rimraf dist",
     "build": "rimraf dist && tsc -d"
   },
-  "keywords": ["quickts", "sleep"],
+  "keywords": [
+    "quickts",
+    "sleep"
+  ],
   "author": "quickts",
   "license": "MIT",
   "devDependencies": {
